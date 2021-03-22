@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @cardoner1993
+- 👀 I’m interested in Machine learning, Microservices architecture and python development
+- 🌱 I’m currently learning about blockchain and azure technologies
+- 💞️ I’m looking to collaborate on interesting projects that help me improve my skills
+- 📫 How to reach me cardoner1993@gmail.com
