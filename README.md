@@ -1,7 +1,7 @@
 <h1 align="center">David Cardoner</h1>
 <p align="center">
   <b>MLOps · Agentic AI &amp; Cloud Developer · Data Scientist</b><br>
-  Senior ML/MLOps engineer — I take LLM agents and ML models from notebook to production.
+  Senior ML/MLOps engineer. I take LLM agents and ML models from notebook to production.
 </p>
 
 <p align="center">
@@ -14,11 +14,11 @@
 
 ## What I Do
 
-- **Agentic AI** — LLM agents with LangGraph, LangChain and smolagents (tool calling, retrieval, memory), served through FastAPI and operated via lightweight React interfaces.
-- **LLM Serving** — Open-weight models on vLLM and Triton over CUDA GPUs; batching and quantisation tuned to keep latency and cost under control.
-- **MLOps at scale** — Azure ML + Databricks pipelines, CI/CD, Ray on Kubernetes, Terraform IaC, observability with OpenTelemetry / Prometheus / Grafana.
-- **SecDevOps for agents** — Tool-permission and prompt-injection checks baked into the ML deployment lifecycle.
-- **Research background** — MSc in Statistics &amp; Operations Research; 6 peer-reviewed publications applying ML/optimization to real-world forecasting and decision problems.
+- **Agentic AI**: LLM agents with LangGraph, LangChain and smolagents (tool calling, retrieval, memory), served through FastAPI and operated via lightweight React interfaces.
+- **LLM Serving**: Open-weight models on vLLM and Triton over CUDA GPUs; batching and quantisation tuned to keep latency and cost under control.
+- **MLOps at scale**: Azure ML + Databricks pipelines, CI/CD, Ray on Kubernetes, Terraform IaC, observability with OpenTelemetry / Prometheus / Grafana.
+- **SecDevOps for agents**: Tool-permission and prompt-injection checks baked into the ML deployment lifecycle.
+- **Research background**: MSc in Statistics &amp; Operations Research; 6 peer-reviewed publications applying ML/optimization to real-world forecasting and decision problems.
 
 ## Tech Stack
 
